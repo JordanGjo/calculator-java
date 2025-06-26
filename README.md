@@ -1,5 +1,6 @@
 Zadatak 
 
+
 # Staticka analiza - Java Kalkulator
 
 Ovaj dokument sadrzi osnovne informacije o broju linija koda i zapazanjima dobijenim statickom analizom i neformalnim pregledom repozitorijuma [calculator-java](https://github.com/vladimir-dresevic/calculator-java).
